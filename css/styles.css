@@ -1,0 +1,18 @@
+header {
+  text-align: center;
+}
+
+.leftDiv {
+  float: left;
+  width: 30%;
+}
+
+.rightDiv{
+  float: right;
+  width: 30%;
+}
+
+.center {
+  width: 30%;
+  float: left;
+}
